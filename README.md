@@ -1,3 +1,2 @@
 # Blog
-Blog Projekt
-Do.13265
+Do,13.08.2020
