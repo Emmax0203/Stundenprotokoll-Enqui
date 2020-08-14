@@ -1,7 +1,8 @@
 # Blog
 
 ##Inhaltsverzeichnis
-[1. Einleitung] (#Einleitung)
+
+[1. Einleitung](#Einleitung)
 ## Einleitung<a name="Einleitung"></a>
 
 Do,13.08.2020
