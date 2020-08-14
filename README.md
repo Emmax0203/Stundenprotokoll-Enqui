@@ -1,6 +1,6 @@
 # Blog
 
-##Inhaltsverzeichnis
+Inhaltsverzeichnis
 
 [1. Einleitung](#Einleitung)
 
