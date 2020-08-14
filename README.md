@@ -6,11 +6,11 @@
 
 [2. Spielidee](#Spielidee)
 
-[4. Funktionen](#Funktionen)
+[3. Funktionen](#Funktionen)
 
-[7. Spielende](#Ende)
+[4. Spielende](#Ende)
 
-[9. Schlusswort](#Schlusswort)
+[5. Schlusswort](#Schlusswort)
 ## Einleitung
 
 ## Spielidee
