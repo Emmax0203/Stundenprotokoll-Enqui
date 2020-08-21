@@ -17,3 +17,7 @@ Wir haben uns heute infortmiert über mögliche Programmierapps. Dabei haben wir
 
 ## Do, 20.08.2020
 Heute haben wir uns weiter mit der App AppLab beschäftigt. Außerdem haben wir uns auf ein Projekt festgelegt: ein multiple-choice-Quiz. Des weitetren haben wir verswucht herauszufinden, wir man eine Reaktion auf die richtige Antwort bekommt und wie man das Quiz äußerlich gestralten könnte. Sowie die Anordnung von Frage und Antworten.  
+
+## Fr, 21.08.2020
+Layout, Anornung von Fragen und Antwroten mit Hilfe einer Testfrage, Funktionierende Knöpfe --> Effekt bleiobt nocfh aus
+scoreboard versuchzt, keibne Punkte erhalten, Problemlösung folgt
