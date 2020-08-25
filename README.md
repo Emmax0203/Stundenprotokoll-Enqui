@@ -21,3 +21,6 @@ Heute haben wir uns weiter mit der App AppLab beschäftigt. Außerdem haben wir 
 ## Fr, 21.08.2020
 Layout, Anornung von Fragen und Antwroten mit Hilfe einer Testfrage, Funktionierende Knöpfe --> Effekt bleiobt nocfh aus
 scoreboard versuchzt, keibne Punkte erhalten, Problemlösung folgt
+
+## Di, 25.08.2020
+Screen 2,3 erstellt, Umspringen des Screens nach Frage, funktionierendes Punktesystem mit Minuspunkten, Variable benutzen, 2. Frage programmiert
