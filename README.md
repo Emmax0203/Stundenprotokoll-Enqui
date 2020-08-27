@@ -24,3 +24,6 @@ scoreboard versuchzt, keibne Punkte erhalten, Problemlösung folgt
 
 ## Di, 25.08.2020
 Screen 2,3 erstellt, Umspringen des Screens nach Frage, funktionierendes Punktesystem mit Minuspunkten, Variable benutzen, 2. Frage programmiert
+
+Do, 27.08.2020
+Probleme mit Sreen 3/ Frage 3 (Bild einfügen) Probleme mit Überlagerungen der FRagen und Antworten, Probiert Zeitlimit zu setzen --> hat noch nicht funktioniert, Funktion wurde nicht mehr erkannt, Überlegungen zum Layout des Endproduktes
