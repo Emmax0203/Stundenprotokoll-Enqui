@@ -27,3 +27,6 @@ Screen 2,3 erstellt, Umspringen des Screens nach Frage, funktionierendes Punktes
 
 Do, 27.08.2020
 Probleme mit Sreen 3/ Frage 3 (Bild einfügen) Probleme mit Überlagerungen der FRagen und Antworten, Probiert Zeitlimit zu setzen --> hat noch nicht funktioniert, Funktion wurde nicht mehr erkannt, Überlegungen zum Layout des Endproduktes
+
+Fr, 28.08.2020
+Hintergrundfarbe, Schriftfarbe, mit RGB-Codes beschäftigt, Souns für Falsch und Richtig wenn klicken, 
