@@ -30,3 +30,12 @@ Probleme mit Sreen 3/ Frage 3 (Bild einfügen) Probleme mit Überlagerungen der 
 
 Fr, 28.08.2020
 Hintergrundfarbe, Schriftfarbe, mit RGB-Codes beschäftigt, Souns für Falsch und Richtig wenn klicken, 
+
+Di, 01.09.2020
+Versuch von laufender Zeit--> hat nicht funktioniert, erste Frage ging weg, als wir den Timer versucht hatten, am Ende version zurückgesetzt
+
+Do, 03.09.2020
+weitere Arbeit mit Timer, Teiz läuft unsichtbar ab, danach leerer Screen statt 2. Frage immer wieder nach ablauf der Zeit Frage 1 neu angezeigt--> Überlagerung
+
+Fr, 04.09.2020
+Timer für Fragen weiterentwickeln, Umschwung von Frage 1 zu Frage 2 funktioniert, keine Überlagerungen mehr, wenn Knopf gedrückt vor Ablauf der Zeit, dann einmalige Überlagerung des Bildes
