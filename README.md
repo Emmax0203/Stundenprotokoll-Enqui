@@ -39,3 +39,6 @@ weitere Arbeit mit Timer, Teiz läuft unsichtbar ab, danach leerer Screen statt 
 
 Fr, 04.09.2020
 Timer für Fragen weiterentwickeln, Umschwung von Frage 1 zu Frage 2 funktioniert, keine Überlagerungen mehr, wenn Knopf gedrückt vor Ablauf der Zeit, dann einmalige Überlagerung des Bildes
+
+Di, 08.09.2020
+Endsatz erstellt, falls Punkte über 2--> positiv, Punkte unter 2-->DUMM
