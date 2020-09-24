@@ -47,4 +47,4 @@ Di, 22.09.2020
 Überlagerung nach Ablauf >Zeit weg allerdingfs wenn vorher klicken und Frage 2 schon da dann einmalige Überlagerung nach 10s
 
 Do, 24.09.2020
-
+Endscreens gestaltet und eingefügt, Mindestanzahl festgelegt, versucht Timer und Überlagerungen richtig einzustellen
