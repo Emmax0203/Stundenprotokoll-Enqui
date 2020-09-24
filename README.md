@@ -42,3 +42,9 @@ Timer für Fragen weiterentwickeln, Umschwung von Frage 1 zu Frage 2 funktionier
 
 Di, 08.09.2020
 Endsatz erstellt, falls Punkte über 2--> positiv, Punkte unter 2-->DUMM
+
+Di, 22.09.2020
+Überlagerung nach Ablauf >Zeit weg allerdingfs wenn vorher klicken und Frage 2 schon da dann einmalige Überlagerung nach 10s
+
+Do, 24.09.2020
+
