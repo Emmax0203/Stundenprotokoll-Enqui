@@ -48,3 +48,6 @@ Di, 22.09.2020
 
 Do, 24.09.2020
 Endscreens gestaltet und eingefügt, Mindestanzahl festgelegt, versucht Timer und Überlagerungen richtig einzustellen
+
+Do, 22.10.2020
+Layout selber erstellt (kein vorgegebenes mehr), Code vereinfacht, so das alles funktioniert (aufgeräumt)
