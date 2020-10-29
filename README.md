@@ -54,3 +54,6 @@ Layout selber erstellt (kein vorgegebenes mehr), Code vereinfacht, so das alles 
 
 Fr, 23.10.2020
 neue Fragen (ordnetliche, fertige) und Screens, Funktetafel funktioniert und aufgeräumt ( nicht mehr verschiedene nur noch eine), Hintergrundfarbe aufgeräumt
+
+Di, 27.10.2020
+weitere Fragen erstellt, aufgeräumt (nur die wichtigen Codes stehengelassen), gemerkt Variablen und Zeit funktionieren nicht
