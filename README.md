@@ -57,3 +57,6 @@ neue Fragen (ordnetliche, fertige) und Screens, Funktetafel funktioniert und auf
 
 Di, 27.10.2020
 weitere Fragen erstellt, aufgeräumt (nur die wichtigen Codes stehengelassen), gemerkt Variablen und Zeit funktionieren nicht
+
+Do, 29.10.2020
+weitere screens, Problem, dass nach Screen 5 es nicht weiter geht, neue Fragen
