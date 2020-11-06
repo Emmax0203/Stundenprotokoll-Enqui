@@ -98,5 +98,8 @@ weitere screens, Problem, dass nach Screen 5 es nicht weiter geht, neue Fragen
 ### Fr, 30.10.2020<a name="19"></a>
 Problem behoben (hatte Zugriff auf falschen auf falschen Screen --> deshalb dublizierung), neue Fragen mit Geräuschen, 
 
-### Di,03.11.2020<a name="20"></a>
+### Di, 03.11.2020<a name="20"></a>
 Startbild, 10.Frage, Erneuerung EndGAme
+
+### Fr, 06.11.2020
+functions
