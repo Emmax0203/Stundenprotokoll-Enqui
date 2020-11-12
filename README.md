@@ -101,8 +101,8 @@ Problem behoben (hatte Zugriff auf falschen auf falschen Screen --> deshalb dubl
 ### Di, 03.11.2020<a name="20"></a>
 Startbild, 10.Frage, Erneuerung EndGAme
 
-### Fr, 06.11.2020
+### Fr, 06.11.2020<a name="21"></a>
 functions
 
-### Do, 12.11.2020
+### Do, 12.11.2020<a name="22"></a>
 Sound für Falsch selber erstelölt und eingefügt, letzter Feinschliff der Screens
