@@ -33,7 +33,7 @@ Schuljahr 20/21
 
 ### November                                                                                      
 [Dienstag, der 03.11.2020](#20)                                                                                               
-[Montag, der 19.11.2018](#21)                                                                                         
+[Donnerstag, der 12.11.2020](#21)                                                                                         
 [Dienstag, der 20.11.2018](#22)                                                                                     
 [Mittwoch, der 21.11.2018](#23)                                                                                        
 [Donnerstag, der 22.11.2018](#24)                                                                                  
@@ -103,3 +103,6 @@ Startbild, 10.Frage, Erneuerung EndGAme
 
 ### Fr, 06.11.2020
 functions
+
+### Do, 12.11.2020
+Sound für Falsch selber erstelölt und eingefügt, letzter Feinschliff der Screens
