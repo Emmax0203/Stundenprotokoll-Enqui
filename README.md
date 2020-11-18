@@ -107,5 +107,5 @@ In der heutigen Stunde haben wir nochmal versucht unseren Code so kurz und kompa
 ### Do, 12.11.2020<a name="22"></a>
 Heute hjabne wir uns mit den Sound beschäftigt, da uns die, welche wir bislang benutzt haben nicht so richtig passend fanden. Deshalb haben wir erst nach einem Sound für die richtigen Antworten gesucht und auch sehr schnell gefunden. Da wir für die falschen Antworten jedoch keinen passenden Sound finden konnten, habne wir uns dazu entschieden einen Sound selber zu gestalten, was wir in dieser Stunde dan auch gemacht haben. Diesen habne wir dann bei AppLAb eingespielt und für unsere falschen ANtworten ausgewählt. Außerdem haben wir den letzten Feinschliff bei unseren Screens gemacht und damit unser Quiz in dieser Stunde komplett fertgiggestellt. 
 
-### Di, 17.11.2020<a name="3"></a>
+### Di, 17.11.2020<a name="23"></a>
 In dieser Stunde haben wir angefangen unsere Projektseite zu erstellen. Jedoch kamen wir nicht weit, da wir dann nach Hause geschickt wurden.
