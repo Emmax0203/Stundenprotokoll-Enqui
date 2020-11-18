@@ -2,7 +2,7 @@
 von Emily Müller-Teusler und Maxine Motzkus                                                                              
 Stormarnschule Ahrensburg                                                                         
 Klasse 12b                                                                               
-Schuljahr 20/21                                                                                                  
+Schuljahr 2020/21                                                                                                  
 
 ## Inhalt
 
