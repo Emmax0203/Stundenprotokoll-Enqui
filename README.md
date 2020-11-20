@@ -107,3 +107,6 @@ Heute haben wir uns nochmals mit den Sounds beschäftigt, da wir die Sounds, wel
 
 ### Di, 17.11.2020<a name="23"></a>
 In dieser Stunde haben wir angefangen unsere Projektseite zu erstellen. Jedoch kamen wir nicht weit, da wir aufgrund eines Coronafalls im Jahrgangs dann nach Hause mussten.
+
+### Fr, 20.11.2020<a name="24"></a>
+Heute haben wir bei unserem Stundenprotokoll korrektur gelesen und somit alle Fehler ausgebessert. Außerdem haben wir die Einleitung für unsere Projektseite geschrieben. 
