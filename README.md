@@ -35,7 +35,11 @@ Schuljahr 2020/21
 [Dienstag, der 03.11.2020](#20)                                                                                               
 [Donnerstag, der 12.11.2020](#21)                                                                                         
 [Dienstag, der 20.11.2018](#22)                                                                                     
-[Dienstag, der 17.11.2020](#23)                                                                                        
+[Dienstag, der 17.11.2020](#23)  
+[Freitag, der 20.11.2020](#24)  
+[Dienstag, der 24.11.2020](#25)                                                                                        
+
+
 
 ### Do, 13.08.2020<a name="1"></a>
 Wir haben heute unseren GitHub-Account eingerichtet. Dann haben wir uns die erste Einführung der Website durchgelesen und unseren Blog erstellt. Außerdem haben wir uns Gedanken zu unserem Projekt gemacht. 
@@ -110,3 +114,6 @@ In dieser Stunde haben wir angefangen unsere Projektseite zu erstellen. Jedoch k
 
 ### Fr, 20.11.2020<a name="24"></a>
 Heute haben wir bei unserem Stundenprotokoll korrektur gelesen und somit alle Fehler ausgebessert. Außerdem haben wir die Einleitung für unsere Projektseite geschrieben. 
+
+### Di, 24.11.2020<a name="25"></a>
+In der heutigen Stunde haben wir weiter an der Gestaltung unserer Projektseite gearbeitet. Dazu haben wir unsere Einleitung verbessert und die Spielidee und die Screens bereits vorgestellt. Die genaue Erklärung der Screens folgt jedoch noch. 
