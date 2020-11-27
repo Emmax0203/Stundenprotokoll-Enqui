@@ -38,7 +38,7 @@ Schuljahr 2020/21
 [Dienstag, der 17.11.2020](#23)  
 [Freitag, der 20.11.2020](#24)  
 [Dienstag, der 24.11.2020](#25)                                                                                        
-
+[Freitag, der 27.11.2020](#26) 
 
 
 ### Do, 13.08.2020<a name="1"></a>
@@ -117,3 +117,6 @@ Heute haben wir bei unserem Stundenprotokoll korrektur gelesen und somit alle Fe
 
 ### Di, 24.11.2020<a name="25"></a>
 In der heutigen Stunde haben wir weiter an der Gestaltung unserer Projektseite gearbeitet. Dazu haben wir unsere Einleitung verbessert und die Spielidee und die Screens bereits vorgestellt. Die genaue Erklärung der Screens folgt jedoch noch. 
+
+### Fr, 27.11.2020<a name="26"></a>
+Heute haben wir unsere Projektseite weitergestaltet und uns dabei mit den Funktionen und den Buttons beschäftigt. Wir haben die Funktionsweise unserer Funktionen erklärt und sind auch auf die Funktion unserer Buttons eingegangen.  
