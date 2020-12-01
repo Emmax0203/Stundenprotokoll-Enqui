@@ -120,3 +120,6 @@ In der heutigen Stunde haben wir weiter an der Gestaltung unserer Projektseite g
 
 ### Fr, 27.11.2020<a name="26"></a>
 Heute haben wir unsere Projektseite weitergestaltet und uns dabei mit den Funktionen und den Buttons beschäftigt. Wir haben die Funktionsweise unserer Funktionen erklärt und sind auch auf die Funktion unserer Buttons eingegangen.  
+
+### Di, 01.12.2020
+Projektseite fertiggestellt, bis auf Screenshots, wissen noch nicht wie, Lösung folgt
