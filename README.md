@@ -92,6 +92,8 @@ https://github.com/Emmax0203/Blog/blob/master/04.09.2020.PNG
 ### Di, 08.09.2020<a name="12"></a>
 Da wir mit unserem Timer erstmal nicht weiterkommen, haben wir uns heute mit etwas Neuem beschäftigt, nämlich den Endscreens. Hierfür haben wir in dem Code gesagt, dass ein positiver Screen kommt, wenn man über zwei Punkte erreicht hat und einen negativen Screen, wenn man unter zwei Punkte erreicht hat. Jedoch haben wir uns heute ausschließlich mit der Codierung der Screens beschäftigt und noch nicht mit der Gestaltung dieser. 
 
+https://github.com/Emmax0203/Blog/blob/master/Ende.png
+
 ### Di, 22.09.2020<a name="13"></a>
 Heute haben wir uns weiter mit dem Problem der Überlagerungen beschäftigt. Dabei haben wir es geschafft, dass nach Ablauf der Zeit nicht automatisch eine Überlagerung zustande kommt. Drückt man allerdings vorher auf eine Antwortmöglichkeit und wird somit zu Frage zwei weitergeleitet, entsteht eine einmalige Überlagerung nach Ablauf der Zeit, also nach zehn Sekunden. 
 
