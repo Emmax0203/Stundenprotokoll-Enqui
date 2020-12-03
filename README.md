@@ -53,6 +53,8 @@ Wir haben uns heute über mögliche Programmierapps infortmiert. Dabei haben wir
 ### Do, 20.08.2020<a name="4"></a>
 Heute haben wir uns weiter mit der Seite AppLab beschäftigt. Außerdem haben wir uns auf ein Projekt festgelegt: ein multiple-choice-Quiz. Des Weiteren haben wir versucht herauszufinden, wie man eine Reaktion auf die richtige Antwort bekommt (z.B. Sounds oder Weiterleitung zur nächsten Frage), wie man das Quiz äußerlich gestalten könnte, sowie die Anordnung von Frage und Antworten.  
 
+https://github.com/Emmax0203/Blog/blob/master/20.08.2020.png
+
 ### Fr, 21.08.2020<a name="5"></a>
 In der heutigen Stunde haben wir ein Layout für unser Quiz erstellt und mit Hilfe einer Testfrage die Frage und die Antworten erstellt. Außerdem haben wir funktionierende Knöpfe, wo jedoch noch kein Effekt entsteht. Die Ausführung bleibt noch aus, da noch keine weiteren Screens vorhanden sind. Zudem haben wir uns mit dem Erstellen eines Scoreboards auseinandergesetzt, jedoch haben wir beim Klicken auf den Button noch keine Punkte erhalten. Die Problemlösung folgt noch.   
 
@@ -74,7 +76,7 @@ https://github.com/Emmax0203/Blog/blob/master/01.09.2020.PNG
 Auch heute haben wir weiterhin versucht unseren Timer einzustellen und das Problem zu lösen. Hierbei haben wir es zwar geschafft, dass die Zeit im Hintergrund unsichtbar abläuft, jedoch folgt danach ein leerer weißer Screen anstatt des zweiten Screens. Des Weiteren kommt jedesmal, wenn die Zeit im Hintergrund abgelaufen ist, wieder die erste Frage, wodurch eine Überlagerung Zustande kommt.
 
 ### Fr, 04.09.2020<a name="11"></a>
-Wir haben uns, genauso wie die letzen Stunden auch, wieder mit dem Timer für die Fragen beschäftigt. Dabei hat heute der Umschwung von Frage eins auf Frage zwei funktioniert und es entstand keine Überlagerung mehr. Wenn man jedoch eine Antwort anklickt, bevor die Zeit abgelaufen ist, kommt es zu einer einmaligen Überlagerung des Bildes auf dem nächsten Screen, da die zweite Frage sowohl durch das Anklicken der Knöpfe (onevent 1A/B/C), als auch jedes Mal nach Ablauf des Timers aufgerufen wird.
+Wir haben uns, genauso wie die letzen Stunden auch, wieder mit dem Timer für die Fragen beschäftigt. Dabei hat heute der Umschwung von Frage eins auf Frage zwei funktioniert und es entstand keine Überlagerung mehr. Wenn man jedoch eine Antwort anklickt, bevor die Zeit abgelaufen ist, kommt es zu einer mehrfachen Überlagerung des Bildes auf dem nächsten Screen, da die zweite Frage sowohl durch das Anklicken der Knöpfe (onevent 1A/B/C), als auch jedes Mal nach Ablauf des Timers aufgerufen wird.
 
 https://github.com/Emmax0203/Blog/blob/master/04.09.2020.PNG
 
@@ -82,9 +84,7 @@ https://github.com/Emmax0203/Blog/blob/master/04.09.2020.PNG
 Da wir mit unserem Timer erstmal nicht weiterkommen, haben wir uns heute mit etwas Neuem beschäftigt, nämlich den Endscreens. Hierfür haben wir in dem Code gesagt, dass ein positiver Screen kommt, wenn man über zwei Punkte erreicht hat und einen negativen Screen, wenn man unter zwei Punkte erreicht hat. Jedoch haben wir uns heute ausschließlich mit der Codierung der Screens beschäftigt und noch nicht mit der Gestaltung dieser. 
 
 ### Di, 22.09.2020<a name="13"></a>
-
-
-Überlagerung nach Ablauf >Zeit weg allerdingfs wenn vorher klicken und Frage 2 schon da dann einmalige Überlagerung nach 10s
+Heute haben wir uns weiter mit dem Problem der Überlagerungen beschäftigt. Dabei haben wir es geschafft, dass nach Ablauf der Zeit nicht automatisch eine Überlagerung zustande kommt. Drückt man allerdings vorher auf eine Antwortmöglichkeit und wird somit zu Frage zwei weitergeleitet, entsteht eine einmalige Überlagerung nach Ablauf der Zeit, also nach zehn Sekunden. 
 
 ### Do, 24.09.2020<a name="14"></a>
 In der heutigen Stunde haben wir unsere Endscreens gestaltet und eingefügt. Hierfür haben wir uns bei AppLab Icons ausgesucht und unter einem Textfeld eingefügt. Außerdem haben wir noch einmal versucht unseren Timer richtig einzustellen, damit sich die Fragen auf dem nächsten Screen nicht mehr überlagern. Dies hat heute jedoch nicht funktioniert.
