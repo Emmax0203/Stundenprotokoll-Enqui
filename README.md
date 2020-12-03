@@ -122,6 +122,7 @@ https://github.com/Emmax0203/Blog/blob/master/Start.png
 In der heutigen Stunde haben wir nochmal versucht unseren Code so kurz und kompakt wie möglich zu gestalten. Dann haben wir festgestellt, dass wir allgemeine Funktionen für richtige und falsche Antworten erstellen können, wodurch ein sehr großer Teil unseres Codes vereinfacht werden konnte. Dadurch haben wir ähnlich wie bei Variablen eine Funktion mit dem Befehl, welcher dann so, wie in der allgemeinen Funktion (für richtige oder falsche Antworten) festgeslegt, ausgeführt wird. Hiermit konnten wir die allgemeinen Funktionen für die jeweiligen Antworten einsetzen, anstatt jedes Mal den Sound und die Veränderung der Punktzahl anzugeben.  
 
 https://github.com/Emmax0203/Blog/blob/master/right.png
+https://github.com/Emmax0203/Blog/blob/master/wrong.png
 
 ### Do, 12.11.2020<a name="22"></a>
 Heute haben wir uns nochmals mit den Sounds beschäftigt, da wir die Sounds, welche wir bislang benutzt haben nicht so richtig passend fanden. Deshalb haben wir erst nach einem Sound für die richtigen Antworten gesucht und auch sehr schnell einen passenden gefunden. Da wir für die falschen Antworten jedoch keinen passenden Sound finden konnten, haben wir uns dazu entschieden einen Sound selber zu gestalten, was wir in dieser Stunde dann auch gemacht haben. Diesen haben wir dann bei Garageband gestaltet, bei AppLab eingespielt und für unsere falschen Antworten ausgewählt. Außerdem haben wir den letzten Feinschliff bei unseren Screens gemacht und damit unser Quiz in dieser Stunde komplett fertgiggestellt. 
