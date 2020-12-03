@@ -67,7 +67,7 @@ https://github.com/Emmax0203/Blog/blob/master/25.08.2020%20(3).PNG
 https://github.com/Emmax0203/Blog/blob/master/25.08.2020.PNG
 
 ### Do, 27.08.2020<a name="7"></a>
-Wir haben uns heute weiter mit Screen drei beschäftigt und sind hierbei auf ein Problem gestoßen. Die Fragen und Antworten haben sich auf Screen drei überlagert und die Knöpfe und Funktionen haben aus diesem Grund nichtmehr funktioniert. (Bild) Außerdem haben wir probiert ein Zeitlimit zu setzten, was jedoch noch nicht funktioniert hat. Durch das Einsetzen eines Zeitlimits wurde unsere gesamte Funktion nicht mehr erkannt, wodurch das ganze Spiel nicht mehr funktioniert hat. 
+Wir haben uns heute weiter mit Screen drei beschäftigt und sind hierbei auf ein Problem gestoßen. Die Fragen und Antworten haben sich auf Screen drei mehrfach überlagert und die Knöpfe und Funktionen haben aus diesem Grund nichtmehr funktioniert. Außerdem haben wir probiert ein Zeitlimit zu setzten, was jedoch noch nicht funktioniert hat. Durch das Einsetzen eines Zeitlimits wurde unsere gesamte Funktion nicht mehr erkannt, wodurch das ganze Spiel nicht mehr funktioniert hat. 
 
 https://github.com/Emmax0203/Blog/blob/master/27.08.2020.PNG
 
