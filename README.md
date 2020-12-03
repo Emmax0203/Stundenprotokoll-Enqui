@@ -76,6 +76,8 @@ Auch heute haben wir weiterhin versucht unseren Timer einzustellen und das Probl
 ### Fr, 04.09.2020<a name="11"></a>
 Wir haben uns, genauso wie die letzen Stunden auch, wieder mit dem Timer für die Fragen beschäftigt. Dabei hat heute der Umschwung von Frage eins auf Frage zwei funktioniert und es entstand keine Überlagerung mehr. Wenn man jedoch eine Antwort anklickt, bevor die Zeit abgelaufen ist, kommt es zu einer einmaligen Überlagerung des Bildes auf dem nächsten Screen, da die zweite Frage sowohl durch das Anklicken der Knöpfe (onevent 1A/B/C), als auch jedes Mal nach Ablauf des Timers aufgerufen wird.
 
+https://github.com/Emmax0203/Blog/blob/master/04.09.2020.PNG
+
 ### Di, 08.09.2020<a name="12"></a>
 Da wir mit unserem Timer erstmal nicht weiterkommen, haben wir uns heute mit etwas Neuem beschäftigt, nämlich den Endscreens. Hierfür haben wir in dem Code gesagt, dass ein positiver Screen kommt, wenn man über zwei Punkte erreicht hat und einen negativen Screen, wenn man unter zwei Punkte erreicht hat. Jedoch haben wir uns heute ausschließlich mit der Codierung der Screens beschäftigt und noch nicht mit der Gestaltung dieser. 
 
