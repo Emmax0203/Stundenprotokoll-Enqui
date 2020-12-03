@@ -142,4 +142,7 @@ In der heutigen Stunde haben wir weiter an der Gestaltung unserer Projektseite g
 Heute haben wir unsere Projektseite weitergestaltet und uns dabei mit den Funktionen und den Buttons beschäftigt. Wir haben die Funktionsweise unserer Funktionen erklärt und sind auch auf die Funktion unserer Buttons eingegangen.  
 
 ### Di, 01.12.2020
-Projektseite fertiggestellt, bis auf Screenshots, wissen noch nicht wie, Lösung folgt
+Unsere Projektseite haben wir heute fertiggestellt. Es fehlen lediglich noch die Screenshots und Codeauszüge aus unserem Text. Diese folgen nächste Stunde. 
+
+### Do, 03.12.2020
+Am heutigen Tag haben wir unsere Kommentare auf AppLab zu unserem Coxde hinzugefügt. Außerdem haben wir unsere Screenshots in unser Stundenprotokoll und die Projektseite eingefügt. 
