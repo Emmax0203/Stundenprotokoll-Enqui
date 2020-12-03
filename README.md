@@ -58,6 +58,8 @@ https://github.com/Emmax0203/Blog/blob/master/20.08.2020.png
 ### Fr, 21.08.2020<a name="5"></a>
 In der heutigen Stunde haben wir ein Layout für unser Quiz erstellt und mit Hilfe einer Testfrage die Frage und die Antworten erstellt. Außerdem haben wir funktionierende Knöpfe, wo jedoch noch kein Effekt entsteht. Die Ausführung bleibt noch aus, da noch keine weiteren Screens vorhanden sind. Zudem haben wir uns mit dem Erstellen eines Scoreboards auseinandergesetzt, jedoch haben wir beim Klicken auf den Button noch keine Punkte erhalten. Die Problemlösung folgt noch.   
 
+https://github.com/Emmax0203/Blog/blob/master/21.08.2020.PNG
+
 ### Di, 25.08.2020<a name="6"></a>
 Heute haben wir uns mit dem Erstellen und dem Gestalten des zweiten und dritten Screens beschäftigt und eine zweite Testfrage verfasst. Hierbei klappt das Umspringen auf den nächsten Screen nach der Beantwortung der Frage auch schon. Außerdem haben wir das Problem der letzten Stunde gelöst. Wir haben jetzt ein funktionierendes Punktesystem, welches auch Minuspunkte anzeigen kann. Dazu haben wir eine Variable für die Punkte benutzt und im Code bei den Funktionen der Knöpfe eine Addierung oder Subtrahierung (+1 oder -1) von dieser Variable programmiert. Des Weiteren haben wir versucht Varibalen für die Fragen in unsere Codierung einzubauen, um den gesamten Code kompakter zu gestalten.
 
