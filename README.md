@@ -67,6 +67,7 @@ Am heutigen Tag haben wir uns noch intensiver mit der Gestaltung unseres Spiels 
 
 ### Di, 01.09.2020<a name="9"></a>
 Heute haben wir uns wieder mit unserem Zeitlimit beschäftigt. Wir haben versucht ein Feld für die Zeit einzufügen, in welchem dann die Zeit während des Spielens runterläuft und die übrige Zeit angezeigt wird. Dies hat jedoch leider nicht funktioniert, denn die erste Frage ging weg, als wir versucht haben diesen Timer einzustellen. Da dadurch irgendwann das komplette Spiel nicht mehr funktioniert hat und es Überlagerungen gab, haben wir am Ende der Stunde unser Spiel auf unsere alte Version zurückgesetzt, in welcher unser Spiel noch funktionierte. Den Grund für dieses Problem und eine eventuelle Lösung bleibt somit noch zu finden.
+01.09.2020.PNG
 
 ### Do, 03.09.2020<a name="10"></a>
 Auch heute haben wir weiterhin versucht unseren Timer einzustellen und das Problem zu lösen. Hierbei haben wir es zwar geschafft, dass die Zeit im Hintergrund unsichtbar abläuft, jedoch folgt danach ein leerer weißer Screen anstatt des zweiten Screens. Des Weiteren kommt jedesmal, wenn die Zeit im Hintergrund abgelaufen ist, wieder die erste Frage, wodurch eine Überlagerung Zustande kommt.
