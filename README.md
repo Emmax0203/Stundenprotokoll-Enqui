@@ -74,6 +74,8 @@ https://github.com/Emmax0203/Blog/blob/master/27.08.2020.PNG
 ### Fr, 28.08.2020<a name="8"></a>
 Am heutigen Tag haben wir uns noch intensiver mit der Gestaltung unseres Spiels beschäftigt. Wir haben uns auf eine Hintergrundfarbe festgelegt und auch die Schriftfarbe bestimmt. Für die Festlegung dieser Farben haben wir uns erst einmal mit RGB-Codes beschäftigt, damit wir unsere Wunschfarbe genau treffen konnten. Außerdem haben wir uns überlegt Sounds für die verschiedenen Antworten einzufügen. Das bedeutet, dass wir Sounds einfügen, welche ertönen, wenn man eine richtige oder eine falsche Antwort angeklickt hat.
 
+https://github.com/Emmax0203/Blog/blob/master/28.08.2020.PNG
+
 ### Di, 01.09.2020<a name="9"></a>
 Heute haben wir uns wieder mit unserem Zeitlimit beschäftigt. Wir haben versucht ein Feld für die Zeit einzufügen, in welchem dann die Zeit während des Spielens runterläuft und die übrige Zeit angezeigt wird. Dies hat jedoch leider nicht funktioniert, denn die erste Frage ging weg, als wir versucht haben diesen Timer einzustellen. Da dadurch irgendwann das komplette Spiel nicht mehr funktioniert hat und es Überlagerungen gab, haben wir am Ende der Stunde unser Spiel auf unsere alte Version zurückgesetzt, in welcher unser Spiel noch funktionierte. Den Grund für dieses Problem und eine eventuelle Lösung bleibt somit noch zu finden.
 
