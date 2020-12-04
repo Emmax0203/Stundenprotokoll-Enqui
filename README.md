@@ -41,9 +41,9 @@ Schuljahr 2020/21
 [Freitag, der 27.11.2020](#26) 
 
 ### Dezember
-[Dienstag, der 01.12.2020](#27) 
-[Donnerstag, der 03.12.2020](#28) 
-[Freitag, der 04.12.2020](#29) 
+[Freitag, der 20.11.2020](#24)  
+[Dienstag, der 24.11.2020](#25)                                                                                   
+[Freitag, der 27.11.2020](#26) 
 
 ### Do, 13.08.2020<a name="1"></a>
 Wir haben heute unseren GitHub-Account eingerichtet. Dann haben wir uns die erste Einführung der Website durchgelesen und unseren Blog erstellt. Außerdem haben wir uns Gedanken zu unserem Projekt gemacht. 
