@@ -152,4 +152,4 @@ Unsere Projektseite haben wir heute fertiggestellt. Es fehlen lediglich noch die
 Am heutigen Tag haben wir unsere Kommentare auf AppLab zu unserem Coxde hinzugefügt. Außerdem haben wir unsere Screenshots in unser Stundenprotokoll und die Projektseite eingefügt. 
 
 ### Fr, 04.12.2020<a name="29"></a>
-In der heutigen Stunde haben wir unser komplettes Projekt inklusive der Projektseite und des Stundenprotokolls fertiggestellt und können es jetzt so abgeben. 
+In der heutigen Stunde haben wir unser komplettes Projekt inklusive der Projektseite und des Stundenprotokolls fertiggestellt und können es jetzt so abgeben.
