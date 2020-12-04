@@ -37,13 +37,13 @@ Schuljahr 2020/21
 [Dienstag, der 20.11.2018](#22)                                                                                     
 [Dienstag, der 17.11.2020](#23)  
 [Freitag, der 20.11.2020](#24)  
-[Dienstag, der 24.11.2020](#25)                                                                                        
+[Dienstag, der 24.11.2020](#25)                                                                                   
 [Freitag, der 27.11.2020](#26) 
 
 ### Dezember
-[Dienstag, der 01.12.2020](#27)
-[Donnerstag, der 03.12.2020](#28)
-[Freitag, der 04.12.2020](#29)
+[Dienstag, der 01.12.2020](#27) 
+[Donnerstag, der 03.12.2020](#28) 
+[Freitag, der 04.12.2020](#29) 
 
 ### Do, 13.08.2020<a name="1"></a>
 Wir haben heute unseren GitHub-Account eingerichtet. Dann haben wir uns die erste Einführung der Website durchgelesen und unseren Blog erstellt. Außerdem haben wir uns Gedanken zu unserem Projekt gemacht. 
@@ -149,7 +149,7 @@ Heute haben wir unsere Projektseite weitergestaltet und uns dabei mit den Funkti
 Unsere Projektseite haben wir heute fertiggestellt. Es fehlen lediglich noch die Screenshots und Codeauszüge aus unserem Text. Diese folgen nächste Stunde. 
 
 ### Do, 03.12.2020<a name="28"></a>
-Am heutigen Tag haben wir unsere Kommentare auf AppLab zu unserem Coxde hinzugefügt. Außerdem haben wir unsere Screenshots in unser Stundenprotokoll und die Projektseite eingefügt. 
+Am heutigen Tag haben wir unsere Kommentare auf AppLab zu unserem Code hinzugefügt. Außerdem haben wir unsere Screenshots in unser Stundenprotokoll und die Projektseite eingefügt. 
 
 ### Fr, 04.12.2020<a name="29"></a>
 In der heutigen Stunde haben wir unser komplettes Projekt inklusive der Projektseite und des Stundenprotokolls fertiggestellt und können es jetzt so abgeben.
