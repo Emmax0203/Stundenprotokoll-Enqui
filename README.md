@@ -88,7 +88,7 @@ https://github.com/Emmax0203/Blog/blob/master/01.09.2020.PNG
 ### Do, 03.09.2020<a name="10"></a>
 Auch heute haben wir weiterhin versucht unseren Timer einzustellen und das Problem zu lösen. Hierbei haben wir es zwar geschafft, dass die Zeit im Hintergrund unsichtbar abläuft, jedoch folgt danach ein leerer weißer Screen anstatt des zweiten Screens. Des Weiteren kommt jedesmal, wenn die Zeit im Hintergrund abgelaufen ist, wieder die erste Frage, wodurch eine Überlagerung Zustande kommt.
 
-### Fr, 04.09.2020<a name="11"></a>
+### Fr, 04.09.2020<a name="11"></a> 
 Wir haben uns, genauso wie die letzen Stunden auch, wieder mit dem Timer für die Fragen beschäftigt. Dabei hat heute der Umschwung von Frage eins auf Frage zwei funktioniert und es entstand keine Überlagerung mehr. Wenn man jedoch eine Antwort anklickt, bevor die Zeit abgelaufen ist, kommt es zu einer mehrfachen Überlagerung des Bildes auf dem nächsten Screen, da die zweite Frage sowohl durch das Anklicken der Knöpfe (onevent 1A/B/C), als auch jedes Mal nach Ablauf des Timers aufgerufen wird.
 
 https://github.com/Emmax0203/Blog/blob/master/04.09.2020.PNG
